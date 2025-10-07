@@ -1,0 +1,15 @@
+{
+  "name": "drapplez-server",
+  "version": "1.0.0",
+  "description": "Backend for Drapplez website with PayU integration.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  }
+}
